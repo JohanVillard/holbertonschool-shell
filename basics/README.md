@@ -1,3 +1,4 @@
-0-current_working_directory execute pwd command
-1-listit execute ls command
-2-bring_me_home execute cd ~ command
+0-current_working_directory    pwd
+1-listit                       ls 
+2-bring_me_home                cd ~ 
+3-listfiles                    ls -l
