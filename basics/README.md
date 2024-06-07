@@ -5,3 +5,4 @@
 4-listmorefiles                ls -la
 5-listfilesdigitonly           ls -lna
 6-firstdirectory               mkdir my_first_directory
+7-movethatfile                 mv /tmp/betty /tmp/my_first_directory
