@@ -9,4 +9,4 @@
 8-firstdelete		       rm /tmp/my_first_directory/betty
 9-firstdirdeletion             rm -r /tmp/my-first-directory
 10-back			       cd -
-11-lists		       ls -a . .. /boot
+11-lists		       ls -la . .. /boot
