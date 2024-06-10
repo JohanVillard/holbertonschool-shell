@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -l | sort -r -k6,6 -k7,7 -k8,8 | head
