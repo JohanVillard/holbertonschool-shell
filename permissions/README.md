@@ -10,3 +10,4 @@ give multiple permissions			chmod +114 hello
 give permissions to everybody			chmod +111 hello
 sets some permissions				chmod 007 hello
 sets other permissions				chmod 753 hello
+mirror permissions to other file		chmod --reference=hello olleh
