@@ -13,3 +13,4 @@ sets other permissions				chmod 753 hello
 mirror permissions to other file		chmod --reference=hello olleh
 give permission to current dir and sub		chmod -R +X .
 create a directory with 751 permission		mkdir -m 751 my_dir
+change owner					chown school hello
