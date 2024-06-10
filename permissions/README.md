@@ -11,3 +11,4 @@ give permissions to everybody			chmod +111 hello
 sets some permissions				chmod 007 hello
 sets other permissions				chmod 753 hello
 mirror permissions to other file		chmod --reference=hello olleh
+give permission to current dir and sub		chmod -R 111 .
