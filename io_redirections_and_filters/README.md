@@ -6,3 +6,4 @@ Display the content of passwd
 Display two files
 Display 10 last lines
 Display 10 first lines
+Display the third line
