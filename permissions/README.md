@@ -8,3 +8,4 @@ create an empty file				touch hello
 give execute permission				chmod +100 hello
 give multiple permissions			chmod +114 hello
 give permissions to everybody			chmod +111 hello
+sets some permissions				chmod +007 hello
