@@ -9,3 +9,4 @@ Display 10 first lines
 Display the third line
 Display the strange path
 Copy the result of ls into a file
+Add last line of a file to this file
