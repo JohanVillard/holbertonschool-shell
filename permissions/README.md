@@ -15,3 +15,4 @@ give permission to current dir and sub		chmod -R +X .
 create a directory with 751 permission		mkdir -m 751 my_dir
 change owner					chgrp school hello
 change group and owner				chown -R vincent:staff .
+idem						chown vincent:staff _hello
