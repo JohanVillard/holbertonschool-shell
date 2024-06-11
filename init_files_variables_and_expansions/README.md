@@ -1,2 +1,3 @@
 Create an alias
 Say hello to the current user
+Add a command in PATH
