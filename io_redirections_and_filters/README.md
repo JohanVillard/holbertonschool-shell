@@ -17,3 +17,4 @@ Display uniq lines only
 Search pattern in a file
 Count number of word with this pattern
 Print 3 lines after print the line of pattern
+Exclude pattern to output
