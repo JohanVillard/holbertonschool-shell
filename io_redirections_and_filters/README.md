@@ -14,3 +14,4 @@ Delete files in directory and all sub
 Count the number of directories
 Sort the ten newest files
 Display uniq lines only
+Search pattern in a file
