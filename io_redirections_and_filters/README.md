@@ -13,3 +13,4 @@ Add last line of a file to this file
 Delete files in directory and all sub
 Count the number of directories
 Sort the ten newest files
+Display uniq lines only
