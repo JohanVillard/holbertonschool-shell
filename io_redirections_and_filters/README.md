@@ -21,3 +21,4 @@ Exclude pattern to output
 Display line wich with a letter
 Change letter
 Delete letter
+Reverse sentence
