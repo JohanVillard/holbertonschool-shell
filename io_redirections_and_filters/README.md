@@ -15,3 +15,4 @@ Count the number of directories
 Sort the ten newest files
 Display uniq lines only
 Search pattern in a file
+Count number of word with this pattern
