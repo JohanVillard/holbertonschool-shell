@@ -23,3 +23,4 @@ Change letter
 Delete letter
 Reverse sentence
 Cut and display delimited text
+Display empty files and directories
