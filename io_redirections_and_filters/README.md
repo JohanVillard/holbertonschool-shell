@@ -22,3 +22,4 @@ Display line wich with a letter
 Change letter
 Delete letter
 Reverse sentence
+Cut and display delimited text
