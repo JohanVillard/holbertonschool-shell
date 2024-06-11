@@ -20,3 +20,4 @@ Print 3 lines after print the line of pattern
 Exclude pattern to output
 Display line wich with a letter
 Change letter
+Delete letter
