@@ -13,3 +13,5 @@ Convert binary to decimal
 List pair of letter except oo
 Convert decimal to float with 2 num after dot
 Convert decimal to hexadecimal
+
+Encrypt and decrypt in rot13
