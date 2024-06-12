@@ -16,3 +16,4 @@ Convert decimal to hexadecimal
 
 Encrypt and decrypt in rot13
 Display odd lines
+Sum 2 strings in base 5 to convert it in base 8
