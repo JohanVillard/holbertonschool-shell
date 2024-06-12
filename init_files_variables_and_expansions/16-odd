@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -nv "^\s*[13579]" |  cut -d ':' -f 2
+cat -n | grep -E '^\s*\b(?:\d+)?[0-9]*[13579]\b' | cut -f 2
