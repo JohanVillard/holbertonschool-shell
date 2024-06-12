@@ -5,5 +5,7 @@ Count directories in PATH
 List all environment variables
 List all env and local variables and function
 Set a local variable
-Export a globla variable
+Export a global variable
 Make an addition with a variable
+Make a division with variables
+Make exponentation with variables
