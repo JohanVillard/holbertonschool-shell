@@ -11,4 +11,5 @@ Make a division with variables
 Make exponentation with variables
 Convert binary to decimal
 List pair of letter except oo
-Convert to float with 2 num after dot
+Convert decimal to float with 2 num after dot
+Convert decimal to hexadecimal
