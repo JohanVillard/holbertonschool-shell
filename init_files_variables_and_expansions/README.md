@@ -9,3 +9,4 @@ Export a global variable
 Make an addition with a variable
 Make a division with variables
 Make exponentation with variables
+Convert binary to decimal
