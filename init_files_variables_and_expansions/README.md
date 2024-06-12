@@ -6,3 +6,4 @@ List all environment variables
 List all env and local variables and function
 Set a local variable
 Export a globla variable
+Make an addition with a variable
