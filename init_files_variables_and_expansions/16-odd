@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -nv "^\s*[13579]" |  cut -d ':' -f 2
+ls -1 | grep -nv "^\s*[13579]" |  cut -d ':' -f 2
